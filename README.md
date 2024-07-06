@@ -46,3 +46,5 @@
 - ***PCA*** *for dimensionality reduction and visualize the patterns*
 - ***Cosine Similarity*** *measured between articles*
 - ***Top 10 recommendations*** *for randomly selected article*
+
+# NLP3
