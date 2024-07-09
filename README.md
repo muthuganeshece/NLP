@@ -2,8 +2,9 @@
 **Hi👋🏾, Welcome to the NLP Projects Repository! This repository contains a collection of Natural Language Processing (NLP) projects developed to showcase various techniques and applications in the field.**
 
 ## Contents
-- [**Tweet Sentiment Classifier**](Practise/NLP1.ipynb)
+- [**Basic Tweet Sentiment Classifier**](Practise/NLP1.ipynb)
 - [**Medium Article Recommendation**](Practise/NLP2.ipynb)
+- [**Basic Search Engine**](Practise/NLP3.ipynb)
 
 ## NLP1 Notebook 
 ### Tweet Sentiment Classifier (Binary Classification)
