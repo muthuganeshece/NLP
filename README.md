@@ -55,3 +55,7 @@
 #### Text Preprocessing
 
 #### Word Embedding - CBoW
+- *Word Co-Occurence Matrix*
+- *Multilabel Binary Encoding*
+
+
