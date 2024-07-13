@@ -57,8 +57,8 @@
 - *Expanding the Text Contraction*  
 #### Word Embedding - CBoW & Skipgram
 - *Word Co-Occurence Matrix*
-- *Multilabel Binary Encoding*
-- *CBoW
+- *Multilabel Binary Encoding* ***(MLB)***
+- *CBoW & Skipgram scratch implementation using tensorflow*
 - ***CBoW*** *using Word2Vec*
 - ***Skipgram*** *using Word2Vec*
 
