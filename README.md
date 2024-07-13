@@ -51,11 +51,15 @@
 ## NLP3 Notebook
 ### Basic Search Engine 
 #### Libraries
-- *NLTK, SciPy, Numpy, Pandas, re, Matplotlib*
+- *NLTK, Gensim, TensorFlow, SciPy, SkLearn, Numpy, Pandas, re, Matplotlib*
 #### Text Preprocessing
-
-#### Word Embedding - CBoW
+- *Stop word removal, punctuations etc.,*
+- *Expanding the Text Contraction*  
+#### Word Embedding - CBoW & Skipgram
 - *Word Co-Occurence Matrix*
 - *Multilabel Binary Encoding*
+- *CBoW
+- ***CBoW*** *using Word2Vec*
+- ***Skipgram*** *using Word2Vec*
 
 
