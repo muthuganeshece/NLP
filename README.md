@@ -62,4 +62,22 @@
 - ***CBoW*** *using Word2Vec*
 - ***Skipgram*** *using Word2Vec*
 
+## NLP4 Notebook
+### Email Auto Fill  
+#### Libraries
+- *NLTK, WordCloud, Email, Numpy, Pandas, re, Matplotlib*
+#### Text Preprocessing
+- *New line, punctuations removal etc.,*
+- *Expanding the Text Contraction*
+- *Sentence Tokenization*
+#### Probabilistic Language Models (PLM)
+- ***Unigram*** *Model*
+- ***Bigrams*** *Model*
+- ***Trigrams*** *Model*
+- *Model Evaluation using* ***Perplexity Score***
+#### Outcomes
+- ***Trigrams outperform Bigrams*** *in terms of perplexity score*
+- *Generative algorithm using trigram model for a 2 word seed. Though not synctactically correct, but the result is convincing*
+![image](https://github.com/user-attachments/assets/c47a2a87-049d-4b86-a0bd-56013a9495ba)
+
 
