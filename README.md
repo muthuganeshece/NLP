@@ -5,6 +5,7 @@
 - [**Basic Tweet Sentiment Classifier**](Practise/NLP1.ipynb)
 - [**Medium Article Recommendation**](Practise/NLP2.ipynb)
 - [**Basic Search Engine for Medium Article**](Practise/NLP3.ipynb)
+- [**Email Auto fill system**](Practise/NLP4.ipynb)
 
 ## NLP1 Notebook 
 ### Tweet Sentiment Classifier (Binary Classification)
