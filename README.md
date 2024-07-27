@@ -6,6 +6,7 @@
 - [**Medium Article Recommendation**](Practise/NLP2.ipynb)
 - [**Basic Search Engine for Medium Article**](Practise/NLP3.ipynb)
 - [**Email Auto fill system**](Practise/NLP4.ipynb)
+- [**Topic Modelling**](Practise/NLP5.ipynb)
 
 ## NLP1 Notebook 
 ### Tweet Sentiment Classifier (Binary Classification)
@@ -82,4 +83,10 @@
 - *Generative algorithm using trigram model for a 2 word seed. Though not synctactically correct, but the result is convincing*
 ![image](https://github.com/user-attachments/assets/c47a2a87-049d-4b86-a0bd-56013a9495ba)
 
-
+## NLP5 Notebook
+### Topic Modelling of Amazon Reviews  
+#### Libraries
+- *NLTK, Spacy, WordCloud, Numpy, Pandas, re, Seaborn*
+#### Text Preprocessing
+- *Expanding the Text Contraction*
+- *Sentence Tokenization*
