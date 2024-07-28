@@ -90,3 +90,7 @@
 #### Text Preprocessing
 - *Expanding the Text Contraction*
 - *Sentence Tokenization*
+#### Data Exploration
+- *Word Cloud*
+#### Topic Modelling
+- *Part of Speech Tagging*
