@@ -91,6 +91,6 @@
 - *Expanding the Text Contraction*
 - *Sentence Tokenization*
 #### Data Exploration
-- *Word Cloud*
+- *Word Cloud* implementation for freq dictionary
 #### Topic Modelling
 - *Part of Speech Tagging*
